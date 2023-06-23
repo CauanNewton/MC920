@@ -4,6 +4,7 @@ import cv2 as cv
 
 
 def rotate(img, t_angle):
+    print("Rotation Function is still in development!")
     return img
 
 
